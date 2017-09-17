@@ -1,0 +1,36 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Delete" count="2" />
+      <entry action="$Paste" count="2" />
+      <entry action="CheckinFiles" count="11" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="Compare.SameVersion" count="1" />
+      <entry action="CreateWebProject" count="3" />
+      <entry action="EditorBackSpace" count="231" />
+      <entry action="EditorCopy" count="4" />
+      <entry action="EditorDelete" count="1" />
+      <entry action="EditorDown" count="10" />
+      <entry action="EditorEnter" count="26" />
+      <entry action="EditorLeft" count="64" />
+      <entry action="EditorLineEndWithSelection" count="1" />
+      <entry action="EditorPaste" count="9" />
+      <entry action="EditorRight" count="103" />
+      <entry action="EditorUp" count="26" />
+      <entry action="FileChooser.GotoHome" count="1" />
+      <entry action="FindNext" count="2" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Init" count="4" />
+      <entry action="HideAllWindows" count="1" />
+      <entry action="Move" count="1" />
+      <entry action="NewDirectoryProject" count="2" />
+      <entry action="NewElement" count="3" />
+      <entry action="NewFile" count="1" />
+      <entry action="NewScratchFile" count="1" />
+      <entry action="SavaAs" count="4" />
+      <entry action="ShowNavBar" count="1" />
+    </counts>
+  </component>
+</application>

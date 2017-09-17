@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\P.E.Y.M.A.N\PhpstormProjects\untitled1\.idea\modules.xml" timestamp="1505477718390" />
+    <file path="C:\Users\P.E.Y.M.A.N\PhpstormProjects\untitled1\.idea\untitled1.iml" timestamp="1505477718320" />
+    <file path="C:\Users\P.E.Y.M.A.N\PhpstormProjects\untitled1\.idea\vcs.xml" timestamp="1505477804534" />
+    <file path="C:\Users\P.E.Y.M.A.N\PhpstormProjects\untitled1\.idea\workspace.xml" timestamp="1505644560704" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PhpstormProjects/untitled1" />
+        <option value="$USER_HOME$/PhpstormProjects/untitled" />
+        <option value="$USER_HOME$/PhpstormProjects/index.html" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PhpstormProjects/untitled1" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PhpstormProjects/untitled1" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PhpstormProjects/index.html">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.25" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505460649482" />
+              <option name="buildTimestamp" value="1504608640933" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.25" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505477478393" />
+              <option name="buildTimestamp" value="1504608611043" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505644614254" />
+              <option name="buildTimestamp" value="1505468206733" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>
